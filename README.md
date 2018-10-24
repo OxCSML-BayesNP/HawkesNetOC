@@ -22,3 +22,7 @@ NIPS 2018
 
 All Rights Reserved.
 See the file `LICENSE.txt`.
+
+utils/munkres.m is Copyright (c) 2009, Yi Cao. All rights reserved. See the file utils/munkres_license.txt.
+
+
