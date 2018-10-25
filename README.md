@@ -12,7 +12,7 @@ for the class of graph models introduced by [X. Miscouridou, F. Caron,Y.W. Teh (
 # Reference
 
 X. Miscouridou, F. Caron, Y.W.Teh, Modeling sparsity, heterogeneity and community structure in network interaction data, 
-NIPS 2018 
+Neural Information Processing Systems (NIPS 2018).
 **arXiv:**. [Download paper](https://arxiv.org/abs/1803.06070v2 ).
 
 
